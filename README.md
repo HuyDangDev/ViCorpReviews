@@ -5,7 +5,11 @@
   &nbsp;&nbsp;&nbsp;
 </p>
 
+<br> </br>
+
 <h1 align="center">ViCorpReviews: A Benchmark Dataset for Multi-Dimensional Sentiment and Hate Speech Detection in Vietnamese Workplace Context</h1>
+
+<br> </br>
 
 </div>
 
